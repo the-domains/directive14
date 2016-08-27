@@ -1,4 +1,3 @@
-layout_spectrum: 0.9800935937091708
 typography_spectrum: 0.15648308326490223
 color:
   brandStrength: 0.5838845383841544
@@ -6,9 +5,12 @@ color:
   saturation: 0.0875471425242722
   rhythmicContrast: 0.4381114160642028
   brandColors:
-    - '#FAF7D4'
-    - '#134E78'
-    - '#3F7CAB'
-    - '#E9C480'
-    - '#88A8BA'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+layout_spectrum: 0.9800935937091708
 name: Directive14
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2934485-f045-4e59-a6ec-ab589b49a9a6.ico
